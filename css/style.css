@@ -260,6 +260,27 @@ margin-left: -5px;
     width: 10px;
 }
 
+/* back to top part start  */
+.back_to_top {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    background: red;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: #fff;
+}
+.back_to_top a {
+    padding-top: 10px;
+    color: #fff;
+}
+.back_to_top i {
+    padding-top: 3px;
+}
+/* back to top part end */
+
 
 
 /* =====responsive part start=====  */
